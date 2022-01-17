@@ -12,7 +12,7 @@ def Bsearch(arr,s,left,right):
 
 #Driver Code
 #using already sorted array for Binary search
-arr=[2,5,7,8,9,10,12,15,17,19,23,45,56,58,67,69,70,73,76,78,79,89,98,99,102,134,156]
+arr=[2,5,7,8,9,10,12,15,17,19,23,45,56,58,67,69,70,73,76,78,79,89,98,99,102,134,156,202,214,267]
 s=7
 left=0
 right=len(arr)-1
