@@ -16,7 +16,6 @@ class NodeTree(object):
     def __str__(self):
         return "%s_%s" %(self.left, self.right)
 
-
 # Main function implementing huffman coding
 def huffman_code_tree(node, left=True, binString=''):
     if type(node) is str:
